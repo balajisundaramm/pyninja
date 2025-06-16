@@ -1,0 +1,2 @@
+# pyninja
+Sample python project
